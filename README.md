@@ -8,28 +8,32 @@ Welcome to the support page for *Plethnotic*, the fun and easy way to master mul
 ## Frequently Asked Questions (FAQs)
 
 ### How do I create or switch profiles?
-- Open the app and go to the Profiles section.
-- Tap "Add Profile" to create a new one or select an existing profile to switch.
+- Open the app and go to the Settings tab.
+- Tap on Profiles.
+- Tap Create Profile to create a new one or select an existing profile to edit.
 - Each profile saves its own session history and settings.
+- To switch profiles, go to the Practice tab.
+- Tap on the profile icon in the top right corner of the screen.
+- Choose the desired profile from the drop down menu.
 
 ### How do I customize the number of questions?
-- From the main menu, select "Start Session."
-- Choose the number of questions (e.g., 5, 10, or more) before beginning.
-- Adjust this anytime for a quick or in-depth practice.
+- Open the app and go to the Settings tab.
+- Tap on Profiles.
+- Tap on the profile you wich to update.
+- Increase or decrease the "Questions per session" as desired.
+- Tap Update to save.
 
 ### What are the input modes?
 - **Multiple-Choice**: Pick the correct answer from pre-generated options.
-- **Typed Answer**: Enter the answer using the on-screen keyboard.
-- Switch modes in the Settings menu to suit your learning style.
+- **Text Entry**: Enter the answer using the on-screen keyboard.
 
 ### Where can I see my session history?
-- Go to the History section in the app.
-- View past sessions, including your score and which answers were correct or incorrect.
-- Use this to track progress and improve!
+- Go to the Training History tab in the app.
+- Tap on the profile you want to see the history of.
 
 ### Why is the app not saving my progress?
 - Ensure you’re using the same profile, as progress is tied to each profile.
-- Check that your device has enough storage.
+- Make sure you complete the training session as progress is only saved when the session completes.
 - If the issue persists, contact us (see below).
 
 ### Does the app require an internet connection?
