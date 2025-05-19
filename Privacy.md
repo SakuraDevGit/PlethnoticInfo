@@ -49,4 +49,4 @@ Thank you for choosing *Plethnotic*! We’re here to help you multiply your math
 
 ---
 
-[Plethnotic Support]([https://github.com/your-username/plethnotic-support](https://github.com/SakuraDevGit/PlethnoticInfo/blob/main/README.md))
+[Plethnotic Support](https://github.com/SakuraDevGit/PlethnoticInfo/blob/main/README.md)
