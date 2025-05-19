@@ -43,7 +43,7 @@ Welcome to the support page for *Plethnotic*, the fun and easy way to master mul
 If you have questions, feedback, or run into issues, we’re here to assist! Email us at [plethnotic.support.monogram393@passmail.net](mailto:plethnotic.support.monogram393@passmail.net). We aim to respond within 48 hours.
 
 ## Privacy and Data
-*Plethnotic* stores all data (profiles and session history) locally on your device. We don’t collect or share any personal information. For details, see our [Privacy Policy](#) (link to be added if created).
+*Plethnotic* stores all data (profiles and session history) locally on your device. We don’t collect or share any personal information. For details, see our [Privacy Policy](https://github.com/SakuraDevGit/PlethnoticInfo/blob/main/Privacy.md).
 
 Thank you for using *Plethnotic*! Let’s keep multiplying the fun and learning!
 
