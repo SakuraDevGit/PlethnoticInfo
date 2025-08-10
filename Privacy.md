@@ -2,7 +2,7 @@
 
 At *Plethnotic*, we value your privacy and are committed to protecting your data. This Privacy Policy explains how *Plethnotic* (the “App”), a multiplication tables learning app, handles your information. Our goal is to keep things simple and transparent.
 
-*Last updated: May 19, 2025*
+*Last updated: August 10, 2025*
 
 ## Data We Collect
 *Plethnotic* is designed to keep your data local and private. Here’s what you need to know:
@@ -13,8 +13,10 @@ At *Plethnotic*, we value your privacy and are committed to protecting your data
 - **No Data Transmission**: None of this data (profiles or session history) is sent off your device or shared with us or any third parties.
 
 ### Crash Reports
-- The App may collect anonymized crash reports through Apple’s crash reporting system to help us improve performance and fix bugs.
-- These reports do not contain personally identifiable information and are handled by Apple in accordance with their [privacy policy](https://www.apple.com/legal/privacy/).
+- The App may collect anonymized crash reports to help us improve performance and fix bugs
+- On iOS: Crash reports are collected through Apple’s crash reporting system and handled in accordance with their [privacy policy](https://www.apple.com/legal/privacy/).
+- On Android: Crash reports are collected through Google Play Console from devices where users have opted in to share usage and diagnostics data, as outlined in Google’s [privacy policy](https://policies.google.com/privacy).
+- These reports do not contain personally identifiable information and are used solely to identify technical issues.
 
 ### No Other Data Collection
 - We do not collect personal information, such as your name, email, or location.
